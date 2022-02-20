@@ -1,0 +1,83 @@
+[
+    {
+        "images": [
+            3,
+            10
+        ],
+        "img": "img_1967.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 1"
+    },
+    {
+        "images": [
+            0
+        ],
+        "img": "IMG_1653.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 2"
+    },
+    {
+        "images": [
+            1
+        ],
+        "img": "IMG_1699.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 3"
+    },
+    {
+        "images": [
+            2
+        ],
+        "img": "IMG_1859.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 4"
+    },
+    {
+        "images": [
+            4
+        ],
+        "img": "IMG_8299.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 5"
+    },
+    {
+        "images": [
+            5
+        ],
+        "img": "Screen Shot 2018-01-23 at 3.40.23 PM.png",
+        "layout": "inception_vectors",
+        "label": "Cluster 6"
+    },
+    {
+        "images": [
+            6
+        ],
+        "img": "Screen Shot 2018-02-15 at 8.44.20 AM.png",
+        "layout": "inception_vectors",
+        "label": "Cluster 7"
+    },
+    {
+        "images": [
+            7
+        ],
+        "img": "Screen Shot 2018-02-15 at 8.49.54 AM.png",
+        "layout": "inception_vectors",
+        "label": "Cluster 8"
+    },
+    {
+        "images": [
+            8
+        ],
+        "img": "ffrr-maxmillian.png",
+        "layout": "inception_vectors",
+        "label": "Cluster 9"
+    },
+    {
+        "images": [
+            9
+        ],
+        "img": "img_1956.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 10"
+    }
+]
